@@ -1,0 +1,8 @@
+Test Case ID: TC_001
+Test Case Name: Valid Login Functionality
+Precondition: User is on the login page
+Test Steps:
+1. Enter a valid email address in the email field
+2. Enter a valid password in the password field
+3. Click the "Login" button
+Expected Result: User is redirected to the homepage or dashboard
